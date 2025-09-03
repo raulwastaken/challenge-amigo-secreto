@@ -20,10 +20,16 @@ Este proyecto es una aplicación web sencilla que permite organizar un sorteo de
 ## Capturas de pantalla
 
 ### 1. Agregar nombres
-!Agregar nombres
+![Agregar amigos](./screenshots/Agregar%20amigos.jpg)
 
 ### 2. Lista de amigos
-!Lista de amigos
+![Lista de amigos](./screenshots/Lista%20de%20amigos.jpg)
 
 ### 3. Resultado del sorteo
-![Resultado del sorteo](./screenshotsar estas imágenes en una carpeta llamada `screenshots` dentro del proyecto.
+![Resultado del sorteo](./screenshots/Sorteo%20de%20amigos.jpg)
+
+### 4. Mensaje al presionar "Añadir" sin nombre
+![Error: Añadir sin nombre](./screenshots/Añadir%20sin%20nombre.jpg)
+
+### 5. Mensaje al presionar "Sortear" sin amigos
+![Error: Sortear sin amigos](./screenshots/Sortear%20sin%20lista.jpg)
